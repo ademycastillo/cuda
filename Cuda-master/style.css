@@ -1,0 +1,42 @@
+
+		span{
+			color:white;
+
+
+		}
+		h1{
+			font-family:Arial;
+			font-size:50px;
+		}
+		
+		p{
+			color:white;
+			font-size:20px;
+			font-family:arial;
+		}
+		
+		h2{
+			color:white;
+			font-size:20px;
+			text-align:center;
+			font-family:Arial Black;
+		}
+		
+		h4{
+			color:white;
+			font-family:Bell MT;
+			text-align:center;
+			font-size:20px;
+		}
+		
+		h6{
+			font-size:15px;
+		}
+		
+		h5{
+			font-family:arial;
+		}
+		
+.container{
+	width: 100%
+}
